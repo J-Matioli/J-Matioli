@@ -3,7 +3,7 @@
 
 - 🔭 *Front-end Developer* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 😄 22 anos
-- 🤓 Estudando Angular e *Front-end* no geral
+- 🤓 8º Semestre de **Ciência da Computação - UNIP**
 - 🎮Games / 🎶 Músicas / 📚 Livros / 🖼 Desenhos
 
 <div>
@@ -23,7 +23,7 @@
   <img align="center" alt="Jose-Angular" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Jose-PS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Jose-AI" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Jose-Angular" height="130" width="180" src="https://media.giphy.com/media/2eHyl5MMV68oM/giphy.gif">
+  <img align="right" alt="Jose-Angular" height="135" width="190" src="https://media.giphy.com/media/2eHyl5MMV68oM/giphy.gif">
 </div>
   
 ##
