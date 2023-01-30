@@ -7,9 +7,9 @@
 - 🎮Games / 🎶 Músicas / 📚 Livros / 🖼 Desenhos
 
 <div>
-  <a href="https://github.com/J-Mateus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Mateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Mateus&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/J-Matioli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Matioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Matioli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ##
@@ -35,4 +35,4 @@
   </a> 
 </div
 
-![Snake animation](https://github.com/J-Mateus/J-Mateus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/J-Matioli/J-Matioli/blob/output/github-contribution-grid-snake.svg)
